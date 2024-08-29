@@ -12,7 +12,7 @@
 #
 #   ./scripts/deploy.sh
 #
-
+echo "manish deployed"
 set -u # or set -o nounset
 : "$CONTAINER_REGISTRY"
 : "$VERSION"
